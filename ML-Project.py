@@ -1,6 +1,5 @@
 """
 Author: Kajal Gupta
-UCID: kg494@njit.edu
 Date: 11/23/2019
 """
 import random
